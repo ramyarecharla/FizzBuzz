@@ -1,0 +1,7 @@
+E:\PHMFizzTest\PHMFizzTest.Core\bin\Debug\PHMFizzTest.Core.dll
+E:\PHMFizzTest\PHMFizzTest.Core\bin\Debug\PHMFizzTest.Core.pdb
+E:\PHMFizzTest\PHMFizzTest.Core\obj\Debug\PHMFizzTest.Core.dll
+E:\PHMFizzTest\PHMFizzTest.Core\obj\Debug\PHMFizzTest.Core.pdb
+E:\PHMFizzTest\PHMFizzTest.Core\bin\Debug\PHMFizzTest.Helpers.dll
+E:\PHMFizzTest\PHMFizzTest.Core\bin\Debug\PHMFizzTest.Helpers.pdb
+E:\PHMFizzTest\PHMFizzTest.Core\obj\Debug\PHMFizzTest.Core.csprojResolveAssemblyReference.cache

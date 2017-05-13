@@ -1,0 +1,13 @@
+E:\PHMFizzTest\PHMFizzTest.UnitTest\bin\Debug\PHMFizzTest.UnitTest.dll
+E:\PHMFizzTest\PHMFizzTest.UnitTest\bin\Debug\PHMFizzTest.UnitTest.pdb
+E:\PHMFizzTest\PHMFizzTest.UnitTest\obj\Debug\PHMFizzTest.UnitTest.dll
+E:\PHMFizzTest\PHMFizzTest.UnitTest\obj\Debug\PHMFizzTest.UnitTest.pdb
+E:\PHMFizzTest\PHMFizzTest.UnitTest\bin\Debug\nunit.framework.dll
+E:\PHMFizzTest\PHMFizzTest.UnitTest\bin\Debug\PHMFizzTest.App.exe
+E:\PHMFizzTest\PHMFizzTest.UnitTest\bin\Debug\PHMFizzTest.Core.dll
+E:\PHMFizzTest\PHMFizzTest.UnitTest\bin\Debug\PHMFizzTest.Helpers.dll
+E:\PHMFizzTest\PHMFizzTest.UnitTest\bin\Debug\PHMFizzTest.Core.pdb
+E:\PHMFizzTest\PHMFizzTest.UnitTest\bin\Debug\PHMFizzTest.Helpers.pdb
+E:\PHMFizzTest\PHMFizzTest.UnitTest\bin\Debug\PHMFizzTest.App.pdb
+E:\PHMFizzTest\PHMFizzTest.UnitTest\bin\Debug\nunit.framework.xml
+E:\PHMFizzTest\PHMFizzTest.UnitTest\obj\Debug\PHMFizzTest.UnitTest.csprojResolveAssemblyReference.cache

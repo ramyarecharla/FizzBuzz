@@ -1,0 +1,4 @@
+E:\PHMFizzTest\PHMFizzTest.Helpers\bin\Release\PHMFizzTest.Helpers.dll
+E:\PHMFizzTest\PHMFizzTest.Helpers\bin\Release\PHMFizzTest.Helpers.pdb
+E:\PHMFizzTest\PHMFizzTest.Helpers\obj\Release\PHMFizzTest.Helpers.dll
+E:\PHMFizzTest\PHMFizzTest.Helpers\obj\Release\PHMFizzTest.Helpers.pdb
